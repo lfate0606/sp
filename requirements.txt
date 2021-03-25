@@ -75,7 +75,7 @@ pyOpenSSL==17.1.0
 PySocks==1.6.7
 python-dateutil==2.6.0
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 queuelib==1.4.2
 redis==2.10.5
 requesocks==0.10.8
