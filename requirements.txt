@@ -42,7 +42,7 @@ ipython-genutils==0.2.0
 itsdangerous==0.24
 Jinja2==2.9.6
 kombu==4.1.0
-lxml==3.8.0
+lxml==4.6.5
 Markdown==2.2.0
 MarkupSafe==1.0
 mock==2.0.0
